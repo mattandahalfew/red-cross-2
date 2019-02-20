@@ -1,0 +1,4 @@
+# ignore large dataset
+/data/*
+
+*.csv
